@@ -1,0 +1,26 @@
+body{
+    background-color:lavender;
+    border-radius: 0%;
+    border: 5px;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li{
+    float: right;
+    display: block;
+   padding: 8px 16px;
+    color :darkblue;
+}
+.ul{
+    overflow:hidden ;
+    color: aqua;
+    padding: 0%;
+    background-color: aliceblue;
+}
+aside{
+    float: left;
+    background-image: -moz-linear-gradient(url);
+    border: 5px;
+    border-radius: 5px;
+}
